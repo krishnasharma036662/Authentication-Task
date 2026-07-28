@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+html,
+body,
+#root{
+
+    width:100%;
+    min-height:100vh;
+
+}
+
+body{
+
+    background:#f8fafc;
+    font-family:Inter,sans-serif;
+
+}
+
+button{
+
+    cursor:pointer;
+
+}
+
+input{
+
+    outline:none;
+
+}
