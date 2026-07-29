@@ -8,7 +8,7 @@ import authRouter from "./routes/auth.route.js";
 const app = express();
 
 app.use(cors({
-    origin: "https://authentication-task-krishna-sharma-s-projects1.vercel.app",
+    origin: "https://authentication-task-projects1.vercel.app",
     credentials: true
 }));
 
